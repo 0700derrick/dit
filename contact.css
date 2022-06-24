@@ -1,0 +1,36 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   font-family: sans-serif;
+   text-align: center;
+}
+
+.a{
+   color: white;
+   text-decoration: none;
+   font-size: 30px;
+}
+
+h2{
+   color: green;
+   font-weight: 900;
+   font-size: 40px;
+}
+
+.a:hover{
+   color:orange;
+}
+
+h1{
+   text-align: center;
+}
+
+
+#footer{
+   position:absolute;
+   bottom:0;
+   width:100%;
+   background:#6cf;
+   display: flex;
+   justify-content: space-around;
+}
